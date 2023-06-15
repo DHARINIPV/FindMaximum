@@ -50,13 +50,13 @@ def max_marks(list1):
 ```
 ## Output:
 
-## To find the maximum of marks using the list method sort
+i) # To find the maximum of marks using the list method sort
 ![image](https://github.com/DHARINIPV/FindMaximum/assets/119400845/227a9bdc-8c92-4f53-a21c-739b2a65d95e)
 
-## To find the maximum marks using the list method max()
+ii) # To find the maximum marks using the list method max()
 ![image](https://github.com/DHARINIPV/FindMaximum/assets/119400845/a9ecc932-3ec5-4b7f-8524-406b09da19d2)
 
-## To find the maximum marks without using builtin functions
+iii) # To find the maximum marks without using builtin functions
 ![image](https://github.com/DHARINIPV/FindMaximum/assets/119400845/5752c222-6501-46e9-b400-928bfb9a893e)
 
 ## Result:
